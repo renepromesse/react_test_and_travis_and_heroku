@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/renepromesse/react_test_and_travis_and_heroku.svg?branch=develop)](https://travis-ci.com/renepromesse/react_test_and_travis_and_heroku)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
