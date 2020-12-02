@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "stable"
+install:
+  - npm ci
+  - travis_wait 30
+script:
+  - npm test
+after_success: npm run coverage
+cache:
+  directories:
+    - "node_modules"
+  yarn: true
