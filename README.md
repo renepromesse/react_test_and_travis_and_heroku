@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/renepromesse/react_test_and_travis_and_heroku.svg?branch=develop)](https://travis-ci.com/renepromesse/react_test_and_travis_and_heroku)
 [![Maintainability](https://api.codeclimate.com/v1/badges/dea0c662fd5b0a2536bb/maintainability)](https://codeclimate.com/github/renepromesse/react_test_and_travis_and_heroku/maintainability)
+[![Coverage Status](https://coveralls.io/repos/github/renepromesse/react_test_and_travis_and_heroku/badge.svg?branch=develop)](https://coveralls.io/github/renepromesse/react_test_and_travis_and_heroku?branch=develop)
 
 # Getting Started with Create React App
 
